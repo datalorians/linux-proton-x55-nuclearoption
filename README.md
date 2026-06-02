@@ -33,8 +33,7 @@ it expects. When the game exits, the helper stops the virtual device.
 ## 🚫 What This Does Not Do
 
 - It does not change Nuclear Option files.
-- It does not permanently modify your controller.
-- It does not emulate a full Xbox controller.
+- It does not permanently modify the Saitek X-55 Rhino stick.
 
 ## ✅ Tested Device
 
@@ -140,7 +139,7 @@ This package was developed with assistance from OpenAI's Codex/ChatGPT. The
 scripts and documentation were reviewed and tested locally before publication,
 but they are community-maintained and provided as-is.
 
-AI disclosure is separate from licensing: the disclosure explains how the work
+AI disclosure is independent of licensing: the disclosure explains how the work
 was produced, while the license explains what rights you have to use and modify
 the code.
 
