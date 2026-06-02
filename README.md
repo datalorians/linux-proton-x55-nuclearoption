@@ -148,4 +148,4 @@ the code.
 
 Repository scripts and documentation are released under the [MIT License](LICENSE).
 
-`evsieve` is a separate project with its own license.
+`evsieve` has its own license.
