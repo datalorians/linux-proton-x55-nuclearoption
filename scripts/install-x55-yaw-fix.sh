@@ -8,4 +8,4 @@ install -m 0755 \
   "$repo_root/bin/x55-nuclear-option-stop-virtual-stick" \
   "$HOME/.local/bin/"
 
-echo "Installed optional X-55 Nuclear Option yaw fix scripts."
+echo "Installed X-55 Nuclear Option yaw fix scripts."

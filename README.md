@@ -11,8 +11,8 @@ temporary virtual joystick and remap:
 abs:rz -> abs:z
 ```
 
-This repo is intentionally separate from the TrackIR package. It only handles
-the X-55 joystick yaw workaround.
+This repo only handles the X-55 joystick yaw workaround. TrackIR setup lives in
+a separate package.
 
 ## Requirements
 
